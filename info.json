@@ -1,0 +1,14 @@
+{
+  "name": "peregchests",
+  "version": "14.0",
+  "title": "Pereg's Chests",
+  "author": "Peregrinus",
+  "contact": "~",
+  "homepage": "",
+  "description": "Adds three new tiers of chests, based on Bob's mod.",
+  "dependencies": [
+    "base >= 0.14",
+    "bobplates >= 0.14"
+  ],
+  "factorio_version": "0.14"
+}
